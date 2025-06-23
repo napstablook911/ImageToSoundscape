@@ -31,9 +31,6 @@ msgpack==1.1.1
 narwhals==1.43.1
 networkx==3.3
 numba==0.61.2
-# Rimuovi o commenta questa riga: #numpy==2.1.2
-# Rimuovi o commenta questa riga: #packaging==25.0
-# Rimuovi o commenta questa riga: #pandas==2.3.0
 pillow==11.0.0
 platformdirs==4.3.8
 pooch==1.8.2
