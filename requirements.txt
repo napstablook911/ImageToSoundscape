@@ -31,9 +31,9 @@ msgpack==1.1.1
 narwhals==1.43.1
 networkx==3.3
 numba==0.61.2
-numpy==2.1.2
-packaging==25.0
-pandas==2.3.0
+# Rimuovi o commenta questa riga: #numpy==2.1.2
+# Rimuovi o commenta questa riga: #packaging==25.0
+# Rimuovi o commenta questa riga: #pandas==2.3.0
 pillow==11.0.0
 platformdirs==4.3.8
 pooch==1.8.2
@@ -73,7 +73,7 @@ torchvision
 tornado==6.5.1
 tqdm==4.67.1
 trampoline==0.1.2
-transformers==4.52.4
+transformers==4.5.2.4
 typing_extensions==4.12.2
 tzdata==2025.2
 urllib3==2.5.0
@@ -84,4 +84,4 @@ einops
 pypesq==1.2.4
 pedalboard==0.7.4
 s3fs
-flash-attn>=2.5.0 # Lasciamo che si installi con la GPU
+flash-attn>=2.5.0
